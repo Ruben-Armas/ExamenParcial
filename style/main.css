@@ -1,0 +1,27 @@
+body, input.minimalist_input{
+  background-color: #d8d85f;
+}
+
+input.minimalist_input{
+  margin-top: 250px;
+  border: 0px;
+  border-bottom: 2px solid black;
+  font-size: 50px;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bolder;
+  color: black;
+  width: 500px;
+}
+
+input.minimalist_input:focus {outline:none;}
+
+div.suggestions_panel {
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+}
+
+h1.title{
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 50px;
+  font-weight: lighter;
+}
