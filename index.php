@@ -15,7 +15,7 @@
        
             <div id="suggestions" class="suggestions_panel">
                     <!-- SEARCH RESULTS GO HERE -->
-                    <p> [NO RESULTS] </p>
+                    <p id="quote_text"> [NO RESULTS] </p>
             </div>
        </center>
     </body>
